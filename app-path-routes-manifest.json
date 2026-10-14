@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/page": "/admin",
+  "/assistant/page": "/assistant",
+  "/dashboard/page": "/dashboard",
+  "/documents/page": "/documents",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/onboarding/page": "/onboarding",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/register/page": "/register",
+  "/saved/page": "/saved",
+  "/schemes/[id]/page": "/schemes/[id]",
+  "/schemes/page": "/schemes",
+  "/tracker/page": "/tracker"
+}
