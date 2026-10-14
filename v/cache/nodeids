@@ -1,0 +1,7 @@
+[
+  "backend/tests/test_backend.py::test_ai_assistant_chat_endpoint",
+  "backend/tests/test_backend.py::test_eligibility_engine_profiles",
+  "backend/tests/test_backend.py::test_health_check",
+  "backend/tests/test_backend.py::test_scheme_listing_and_filtering",
+  "backend/tests/test_backend.py::test_user_registration_and_login"
+]
